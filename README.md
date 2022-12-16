@@ -1,24 +1,29 @@
-# README
+# Welcome to My Api
+My Api Demo: https://99cc-54-176-226-23.ngrok.io/
+my Github: https://github.com/Dilrabo1991/Api.git
+Documentation: https://documenter.getpostman.com/view/24001703/2s8YzWTM8D
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Task
+I had a lot of problems, but I didn't give up
+I like the Rails framework
 
-* Ruby version
+## Description
+I learned a lot about Api (application programming interface), from google
 
-* System dependencies
+## Installation
+1. bundle install 
+2. rails db:migrate 
+3. rails db:seed 
+4. rails server
 
-* Configuration
+## Usage
 
-* Database creation
+./my_project argument1 argument2
 
-* Database initialization
 
-* How to run the test suite
+### The Core Team
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
+<span><i>Made at <a href='https://qwasar.io'>Qwasar Silicon Valley</a></i></span>
+<span><img alt='Qwasar Silicon Valley Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
